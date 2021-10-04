@@ -23,35 +23,35 @@ Performing statistical analysis for AutoRUs' newest prototype special project.
 ## T-Tests on Suspension Coils
 ![t-test_for_total](https://user-images.githubusercontent.com/66225050/135796939-401efb45-7f17-4b6d-904c-630892b1a79e.png)
 
-Assume: 
-Null Hypothese:There is no statistical difference between the mean across all manufacturing lots and its population mean;
-Alternative Hypothese:There is a statistical difference between the mean across all manufacturing lots and its population mean;
-significance level is 0.05.
-As the result of this t-test, the p-value is above the significant level. Thus, there is no sufficient evidence to reject the null. Two means are statistically similar.
+- Assume:
+    - Null Hypothese:There is no statistical difference between the mean across all manufacturing lots and its population mean;
+    - Alternative Hypothese:There is a statistical difference between the mean across all manufacturing lots and its population mean;
+    - significance level is 0.05.
+- As the result of this t-test, the p-value is above the significant level. Thus, there is no sufficient evidence to reject the null. Two means are statistically similar.
 
 ![t-test_for_Lot1](https://user-images.githubusercontent.com/66225050/135797168-5a6a6cad-fb85-4cf6-b825-199031b8b83d.png)
 
-Assume: 
-Null Hypothese:There is no statistical difference between the mean of PSI for Lot1 and its population mean;
-Alternative Hypothese:There is a statistical difference between the mean of PSI for Lot1 and its population mean;
-significance level is 0.05.
-As the result of this t-test, the p-value is above the significant level. Thus, there is no sufficient evidence to reject the null. The mean aof PSI for Lot1 and its population mean are statistically similar.
+- Assume:
+    - Null Hypothese:There is no statistical difference between the mean of PSI for Lot1 and its population mean;
+    - Alternative Hypothese:There is a statistical difference between the mean of PSI for Lot1 and its population mean;
+    - significance level is 0.05.
+- As the result of this t-test, the p-value is above the significant level. Thus, there is no sufficient evidence to reject the null. The mean aof PSI for Lot1 and its population mean are statistically similar.
 
 ![t-test_for_Lot2](https://user-images.githubusercontent.com/66225050/135797170-8d0c5b29-3c00-4112-a29a-d567f1a58e6d.png)
 
-Assume: 
-Null Hypothese:There is no statistical difference between the mean of PSI for Lot2 and its population mean;
-Alternative Hypothese:There is a statistical difference between the mean of PSI for Lot2 and its population mean;
-significance level is 0.05.
-As the result of this t-test, the p-value is above the significant level. Thus, there is no sufficient evidence to reject the null. The mean aof PSI for Lot2 and its population mean are statistically similar.
+- Assume: 
+    - Null Hypothese:There is no statistical difference between the mean of PSI for Lot2 and its population mean;
+    - Alternative Hypothese:There is a statistical difference between the mean of PSI for Lot2 and its population mean;
+    - significance level is 0.05.
+- As the result of this t-test, the p-value is above the significant level. Thus, there is no sufficient evidence to reject the null. The mean aof PSI for Lot2 and its population mean are statistically similar.
 
 ![t-test_for_Lot3](https://user-images.githubusercontent.com/66225050/135797173-7b8f8995-fb4c-4770-9356-25b14f3c055a.png)
 
-Assume: 
-Null Hypothese:There is no statistical difference between the mean of PSI for Lot3 and its population mean;
-Alternative Hypothese:There is a statistical difference between the mean of PSI for Lot3 and its population mean;
-significance level is 0.05.
-As the result of this t-test, the p-value is above the significant level. Thus, there is sufficient evidence to reject the null. There is a statistical difference between the mean of PSI for Lot3 and its population mean.
+- Assume: 
+    - Null Hypothese:There is no statistical difference between the mean of PSI for Lot3 and its population mean;
+    - Alternative Hypothese:There is a statistical difference between the mean of PSI for Lot3 and its population mean;
+    - significance level is 0.05.
+- As the result of this t-test, the p-value is above the significant level. Thus, there is sufficient evidence to reject the null. There is a statistical difference between the mean of PSI for Lot3 and its population mean.
 
 ## Study Design: MechaCar vs Competition
 Thesedays, people are more attracted by how the utility of vehicles in their daily life. Especially in the US market, a car that with a large capacity, high fuel efficiency, low maintenance cost and low cost is more conform to people's daily usage.
